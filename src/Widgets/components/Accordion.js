@@ -2,7 +2,9 @@ import React from 'react'
 
 const Accordion = () => {
   return (
-    <div>Accordion</div>
+    <div>
+            <h1>Accordion</h1>
+    </div>
   )
 }
 
