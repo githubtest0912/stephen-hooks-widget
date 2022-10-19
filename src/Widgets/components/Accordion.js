@@ -3,7 +3,7 @@ import React from 'react'
 const Accordion = () => {
   return (
     <div>
-            <h1>Accordion</h1>
+            <h3>Accordion</h3>
     </div>
   )
 }
