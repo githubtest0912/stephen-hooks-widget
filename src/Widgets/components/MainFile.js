@@ -18,7 +18,10 @@ const items = [
 
 const MainFile = () => {
   return (
-    <div><Accordion items={items}/></div>
+    <div>
+       
+        <Accordion items={items}/>
+    </div>
   )
 }
 
